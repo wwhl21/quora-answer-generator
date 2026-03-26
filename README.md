@@ -1,1 +1,12 @@
-# quora-answer-generator
+# Quora答案生成器
+使用AI自动生成高质量的Quora回答。
+## 使用方法
+1. 打开网页
+2. 输入OpenAI API Key
+3. 输入Quora问题
+4. 点击生成
+5. 复制答案到Quora发布
+## 注意事项
+- 遵守Quora社区规范
+- 不要频繁发布相同内容
+- 建议稍作修改再发布
